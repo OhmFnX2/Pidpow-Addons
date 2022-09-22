@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "PidpowPidpowPidpowPidpowPidpowPidpowPidpowPidpow",
+        "name": "PidpowPidpowPidpowPidpowPidpowPidpowPidpowPidpowPidpowPidpowPidpowPidpowPidpowPidpowPidpowPidpowPidpowPidpow",
+        "uuid": "33a2d99f-b5b3-42c9-aa85-ef0bbf5aee87",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 19, 0 ]
+    },
+    "modules": [
+        {
+            "description": "PidpowPidpowPidpowPidpowPidpowPidpowPidpowPidpowPidpowPidpowPidpowPidpowPidpowPidpowPidpowPidpowPidpowPidpowPidpow",
+            "type": "resources",
+            "uuid": "42c5e65c-50dd-411c-8a46-83a7c638c622",
+            "version": [0, 0, 1]
+        }
+    ]
+}
